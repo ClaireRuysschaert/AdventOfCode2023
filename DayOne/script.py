@@ -1,3 +1,5 @@
+# Advent Of Code 2023 - Day One Solution 
+
 with open("input.txt", "r") as f:
     to_sum_all_file = []
     numbers = {
